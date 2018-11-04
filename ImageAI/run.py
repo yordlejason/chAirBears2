@@ -85,7 +85,7 @@ for fn in images:
     seats[fn] = available_seats if precision > 0.8 else 0
 
     if fn not in stat:
-        stat[fn] = []   
+        stat[fn] = []
     stat[fn].append((
         number_of_seats,
         number_of_people,
@@ -105,3 +105,5 @@ with open('{}--stat.json'.format(now), 'w', encoding="utf-8") as f:
     f.close()
 
 print(seats)
+
+# We also stored all the metadata in the records folder as the form of JSON.
