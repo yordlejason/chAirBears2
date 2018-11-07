@@ -4,11 +4,11 @@
 
 ## Demo
 
-[![](http://img.youtube.com/vi/9oLPJQTAut4/0.jpg)](http://www.youtube.com/watch?v=9oLPJQTAut4 "v1":target="_blank")
+[![](http://img.youtube.com/vi/9oLPJQTAut4/0.jpg)](http://www.youtube.com/watch?v=9oLPJQTAut4 "v1")
 
 
 
-[![](http://img.youtube.com/vi/ErShXPqbcbo/0.jpg)](http://www.youtube.com/watch?v=ErShXPqbcbo "v2":target="_blank")
+[![](http://img.youtube.com/vi/ErShXPqbcbo/0.jpg)](http://www.youtube.com/watch?v=ErShXPqbcbo "v2")
 
 
 
