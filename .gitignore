@@ -100,4 +100,5 @@ pip-selfcheck.json
 *.pyc
 *.h5
 *.avi
-./idea
+.idea/
+venv/
